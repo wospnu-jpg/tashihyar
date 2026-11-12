@@ -1,0 +1,470 @@
+{
+  "exam_info": {
+    "title": "آزمون مستمر جامعه‌شناسی ۳",
+    "grade": "دوازدهم ادبیات و علوم انسانی",
+    "date": "۱۴۰۵/۰۸/۱۸",
+    "school": "دبیرستان فرقدانی",
+    "total_score": 20.0,
+    "duration_minutes": 60
+  },
+  "questions": [
+    {
+      "id": "1a",
+      "type": "true_false",
+      "max_score": 0.25,
+      "correct": true,
+      "text": "ساختار اجتماعی، چگونگی رابطه و پیوند میان پدیده‌های اجتماعی مختلف است."
+    },
+    {
+      "id": "1b",
+      "type": "true_false",
+      "max_score": 0.25,
+      "correct": false,
+      "text": "علومی که به بدن انسان و سلامت و بیماری آن می‌پردازند، جزء علوم انسانی محسوب می‌شوند."
+    },
+    {
+      "id": "1c",
+      "type": "true_false",
+      "max_score": 0.25,
+      "correct": true,
+      "text": "دانش عمومی در طول زندگی و از راه جامعه‌پذیری به دست می‌آید."
+    },
+    {
+      "id": "1d",
+      "type": "true_false",
+      "max_score": 0.25,
+      "correct": false,
+      "text": "انسان در دیدگاه تبیینی با سایر موجودات طبیعی تفاوت‌های بنیادی دارد و می‌تواند جوامع و تاریخ‌های گوناگونی را پدید آورد."
+    },
+    {
+      "id": "2a",
+      "type": "fill",
+      "max_score": 0.25,
+      "correct_answers": [
+        "دانش عمومی"
+      ],
+      "acceptable": [
+        "دانش عمومی"
+      ]
+    },
+    {
+      "id": "2b",
+      "type": "fill",
+      "max_score": 0.25,
+      "correct_answers": [
+        "ابزاری"
+      ],
+      "acceptable": [
+        "ابزاری"
+      ]
+    },
+    {
+      "id": "2c",
+      "type": "fill",
+      "max_score": 0.25,
+      "correct_answers": [
+        "کلان"
+      ],
+      "acceptable": [
+        "کلان"
+      ]
+    },
+    {
+      "id": "2d",
+      "type": "fill",
+      "max_score": 0.25,
+      "correct_answers": [
+        "موجود زنده"
+      ],
+      "acceptable": [
+        "موجود زنده"
+      ]
+    },
+    {
+      "id": "2e",
+      "type": "fill",
+      "max_score": 0.25,
+      "correct_answers": [
+        "نظم اجتماعی"
+      ],
+      "acceptable": [
+        "نظم اجتماعی"
+      ]
+    },
+    {
+      "id": "3a",
+      "type": "multiple_choice",
+      "max_score": 0.5,
+      "correct": 2,
+      "options": {
+        "1": "عمق و دقت بیشتر نسبت به دانش علمی",
+        "2": "گستردگی آن و غفلت ما از اهمیتش با وجود استفاده مداوم",
+        "3": "به دست آمدن تنها از راه روش تجربی و نظام‌مند",
+        "4": "اختصاص داشتن به متخصصان هر علم"
+      }
+    },
+    {
+      "id": "3b",
+      "type": "multiple_choice",
+      "max_score": 0.5,
+      "correct": 2,
+      "options": {
+        "1": "علم اقتصاد",
+        "2": "علم جمعیت‌شناسی",
+        "3": "زمین‌شناسی",
+        "4": "علم نجوم"
+      }
+    },
+    {
+      "id": "3c",
+      "type": "multiple_choice",
+      "max_score": 0.5,
+      "correct": 3,
+      "options": {
+        "1": "تفاوت کیفی",
+        "2": "تفاوت ارزشی",
+        "3": "تفاوت کمی",
+        "4": "تفاوت فرهنگی"
+      }
+    },
+    {
+      "id": "3d",
+      "type": "multiple_choice",
+      "max_score": 0.5,
+      "correct": 1,
+      "options": {
+        "1": "وحدت روش علوم",
+        "2": "تنوع روش علوم",
+        "3": "برتری علوم انسانی بر علوم طبیعی",
+        "4": "نقد علم تجربی"
+      }
+    },
+    {
+      "id": "4",
+      "type": "matching",
+      "max_score": 1.0,
+      "item_score": 0.25,
+      "correct_mapping": {
+        "1": "ت",
+        "2": "الف",
+        "3": "پ",
+        "4": "ب"
+      },
+      "extra_option": "ث"
+    },
+    {
+      "id": "5a",
+      "type": "short_essay",
+      "max_score": 0.5,
+      "key_concepts": [
+        "آگاهانه",
+        "هدفدار",
+        "هدف",
+        "معنادار",
+        "معنا",
+        "کنشگر",
+        "هدف و معنا"
+      ],
+      "min_concepts_for_full": 2,
+      "concept_weights": [
+        1.2,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        0.7,
+        1.3
+      ],
+      "full_score_threshold": 0.55
+    },
+    {
+      "id": "5b",
+      "type": "short_essay",
+      "max_score": 0.5,
+      "key_concepts": [
+        "دانش جهان اجتماعی",
+        "جامعه‌پذیری",
+        "پرزحمت",
+        "تنهایی",
+        "نیاز به دانش",
+        "بیرون از جامعه"
+      ],
+      "min_concepts_for_full": 2,
+      "concept_weights": [
+        1.5,
+        1.0,
+        1.0,
+        0.9,
+        1.2,
+        1.0
+      ],
+      "full_score_threshold": 0.65
+    },
+    {
+      "id": "5c",
+      "type": "short_essay",
+      "max_score": 0.5,
+      "key_concepts": [
+        "پیش‌بینی",
+        "کنترل",
+        "ماشین",
+        "بدن",
+        "دانشمندان علوم طبیعی"
+      ],
+      "min_concepts_for_full": 2,
+      "concept_weights": [
+        1.5,
+        1.5,
+        0.8,
+        0.8,
+        1.0
+      ],
+      "full_score_threshold": 0.7
+    },
+    {
+      "id": "5d",
+      "type": "short_answer",
+      "max_score": 0.5,
+      "correct_answers": [
+        "فیزیک اجتماعی"
+      ],
+      "acceptable": [
+        "فیزیک اجتماعی",
+        "فیزیک اجتماعی (آگوست کنت)"
+      ]
+    },
+    {
+      "id": "6a",
+      "type": "short_answer",
+      "max_score": 0.25,
+      "correct_answers": [
+        "دانش علمی"
+      ],
+      "acceptable": [
+        "دانش علمی"
+      ]
+    },
+    {
+      "id": "6b",
+      "type": "short_answer",
+      "max_score": 0.25,
+      "correct_answers": [
+        "علوم تفسیری"
+      ],
+      "acceptable": [
+        "علوم تفسیری",
+        "تفسیری"
+      ]
+    },
+    {
+      "id": "6c",
+      "type": "short_answer",
+      "max_score": 0.25,
+      "correct_answers": [
+        "همبستگی"
+      ],
+      "acceptable": [
+        "همبستگی",
+        "رابطه",
+        "همبستگی اجتماعی"
+      ]
+    },
+    {
+      "id": "6d",
+      "type": "short_answer",
+      "max_score": 0.25,
+      "correct_answers": [
+        "آشنایی‌زدایی"
+      ],
+      "acceptable": [
+        "آشنایی‌زدایی",
+        "آشنایی زدایی"
+      ]
+    },
+    {
+      "id": "7a",
+      "type": "short_answer",
+      "max_score": 0.5,
+      "correct_answers": [
+        "تفسیری"
+      ],
+      "acceptable": [
+        "تفسیری",
+        "دیدگاه تفسیری"
+      ]
+    },
+    {
+      "id": "7b",
+      "type": "essay",
+      "max_score": 1.5,
+      "key_concepts": [
+        "دانش عمومی پایه",
+        "گسترده‌تر",
+        "دانش علمی جزئی",
+        "عدم پذیرش برتری دانش تجربی",
+        "برتری ذاتی"
+      ],
+      "min_concepts_for_full": 3,
+      "concept_weights": [
+        1.5,
+        1.2,
+        1.2,
+        1.5,
+        1.0
+      ],
+      "full_score_threshold": 0.7
+    },
+    {
+      "id": "8",
+      "type": "essay",
+      "max_score": 2.25,
+      "key_concepts": [
+        "تعارض با فرهنگ بومی",
+        "دانش عمومی غربی",
+        "ناتوانی در حل مسائل",
+        "علوم بومی",
+        "اسلامی و ایرانی"
+      ],
+      "min_concepts_for_full": 3,
+      "required_reasons": 2,
+      "concept_weights": [
+        1.5,
+        1.2,
+        1.5,
+        1.3,
+        1.0
+      ],
+      "full_score_threshold": 0.65
+    },
+    {
+      "id": "9a",
+      "type": "table",
+      "max_score": 1.25,
+      "parts": {
+        "natural": {
+          "correct": [
+            "طبیعت",
+            "پدیده‌های طبیعی"
+          ],
+          "score": 0.25
+        },
+        "human": {
+          "correct": [
+            "کنش انسان",
+            "کنش انسانی"
+          ],
+          "score": 0.25
+        },
+        "social": {
+          "correct": [
+            "کنش اجتماعی",
+            "پدیده‌های اجتماعی"
+          ],
+          "score": 0.25
+        },
+        "example": {
+          "correct": [
+            "جمعیت‌شناسی",
+            "اقتصاد",
+            "جامعه‌شناسی"
+          ],
+          "score": 0.5
+        }
+      }
+    },
+    {
+      "id": "9b",
+      "type": "essay",
+      "max_score": 1.0,
+      "key_concepts": [
+        "آگاهانه",
+        "ارادی",
+        "معنادار",
+        "تغییر رفتار",
+        "قوانین ثابت"
+      ],
+      "min_concepts_for_full": 3,
+      "concept_weights": [
+        1.3,
+        1.3,
+        1.2,
+        1.0,
+        1.0
+      ],
+      "full_score_threshold": 0.7
+    },
+    {
+      "id": "10",
+      "type": "essay",
+      "max_score": 2.0,
+      "key_concepts": [
+        "شناخت و مطالعه کنش",
+        "پیش‌بینی پیامدها",
+        "نقد و داوری",
+        "فضیلت و عدالت",
+        "شیوه صحیح استفاده",
+        "مسلط بودن انسان بر فناوری"
+      ],
+      "min_concepts_for_full": 3,
+      "required_capacities": 3,
+      "concept_weights": [
+        1.2,
+        1.2,
+        1.3,
+        1.0,
+        1.3,
+        1.4
+      ],
+      "full_score_threshold": 0.6
+    },
+    {
+      "id": "11",
+      "type": "structured_short",
+      "max_score": 1.5,
+      "parts": {
+        "subject": {
+          "correct": [
+            "پدیده‌های اجتماعی مانند پدیده‌های طبیعی",
+            "جامعه مانند طبیعت"
+          ],
+          "score": 0.5
+        },
+        "method": {
+          "correct": [
+            "حس و تجربه",
+            "نگاه از بیرون"
+          ],
+          "score": 0.5
+        },
+        "goal": {
+          "correct": [
+            "پیش‌بینی و کنترل"
+          ],
+          "score": 0.5
+        }
+      }
+    },
+    {
+      "id": "12",
+      "type": "essay",
+      "max_score": 1.75,
+      "key_concepts": [
+        "دانش ابزاری",
+        "عدم تغییر بنیادی",
+        "نظم مستقل",
+        "تطبیق",
+        "پیچ و مهره"
+      ],
+      "min_concepts_for_full": 3,
+      "required_items": 3,
+      "concept_weights": [
+        1.3,
+        1.3,
+        1.2,
+        1.0,
+        1.3
+      ],
+      "full_score_threshold": 0.65
+    }
+  ]
+}
