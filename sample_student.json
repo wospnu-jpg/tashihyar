@@ -1,0 +1,12 @@
+{
+  "student": {"name": "دانش‌آموز نمونه", "father": "", "class": "دوازدهم ادبی ۱"},
+  "answers": [
+    {"q": "1-الف", "page": 1, "verbatim": "( ص )", "interpretation": "", "confidence": 0.98, "legibility": "خوانا", "score": 0.25, "suggested_score": 0.25, "max": 0.25, "reason": "مطابق کلید", "needs_review": false},
+    {"q": "1-ب", "page": 1, "verbatim": "( غ )", "interpretation": "", "confidence": 0.95, "legibility": "خوانا", "score": 0.25, "suggested_score": 0.25, "max": 0.25, "reason": "مطابق کلید", "needs_review": false},
+    {"q": "2-الف", "page": 1, "verbatim": "ذخیره ی دانشی", "interpretation": "", "confidence": 0.95, "legibility": "خوانا", "score": 0.25, "suggested_score": 0.25, "max": 0.25, "reason": "معادل معتبر", "needs_review": false},
+    {"q": "2-ب", "page": 1, "verbatim": "[؟ انک]", "interpretation": "احتمالاً: ابزاری", "confidence": 0.65, "legibility": "تا حدی ناخوانا", "score": null, "suggested_score": 0.0, "max": 0.25, "reason": "بدخطی شدید", "needs_review": true},
+    {"q": "5-ت", "page": 1, "verbatim": "اگوست کنت - فیزیک جامعه شناسی", "interpretation": "", "confidence": 0.90, "legibility": "خوانا", "score": null, "suggested_score": 0.0, "max": 0.5, "reason": "مرزی: نام علم کمی متفاوت از کلید", "needs_review": true},
+    {"q": "7-ب", "page": 2, "verbatim": "برتری دانش تجربی را بی اعتبار می دانند و دانش عمومی را پایه هر دانشی می داند", "interpretation": "", "confidence": 0.95, "legibility": "خوانا", "score": 1.5, "suggested_score": 1.5, "max": 1.5, "reason": "کامل", "needs_review": false},
+    {"q": "11", "page": 2, "verbatim": "", "interpretation": "", "confidence": 1.0, "legibility": "سفید", "score": 0.0, "suggested_score": 0.0, "max": 1.5, "reason": "سفید", "needs_review": false}
+  ]
+}
